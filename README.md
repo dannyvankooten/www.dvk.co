@@ -1,3 +1,2 @@
-Code repository for my [personal website](https://www.dannyvankooten.com).
 
-The website is built using [Zola](https://www.getzola.org/).
+This repository was moved to https://git.sr.ht/~dvko/dannyvankooten.com on 2022-12-06  :warning: 
